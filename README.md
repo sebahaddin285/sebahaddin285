@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about Android
 - ⚡ Fun fact: I love to swim and play fotball
 - 📫 How to reach me **sebahaddin.marangoz@outlook.com**
 
